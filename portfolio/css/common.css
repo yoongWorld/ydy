@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.wrap {width: 100%;overflow-x: hidden;}
+p {margin: 20px 0;font-size: 1.15em;}
+#typedtext {margin: 10px 50px; letter-spacing: 3px; font-weight: bold;text-align:center;line-height: 1.5em;}
+.footer_select {color: #333;padding: 5px;margin-bottom: 10px;}
+.projectP {font-weight: 800;}
+.gridImg {padding-bottom: 20px;}
+.color {color:#333;}
+.grid_span {font-weight: 400;}
+.pfblock-subtitle {color: #e7746e;}
+.skill_icon {width: 100px;}
+.calltoaction .col-sm-4 img {max-width:100px;}
